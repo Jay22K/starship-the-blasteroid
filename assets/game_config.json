@@ -1,0 +1,78 @@
+{
+"game_data" : {
+
+
+    "resolution" : {"x" : 720, "y": 1280,
+                    "_comment": "we are using the 1280 by 720 as our base resolution. We flipped it for portait representation"},
+    "levels":
+        [
+            {
+                "asteroids" :
+                [
+                    {
+                        "position.x":300, "position.y":300, "velocity.x":0, "velocity.y":1,
+                        "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":700, "position.y":50,"velocity.x":-1, "velocity.y":1,
+                        "name":"largeAsteroid"
+                    }
+
+                ],
+                "gameBonus" :
+                [
+                    {
+                        "position.x":360, "position.y":640,
+                        "velocity.x":0, "velocity.y":-1,
+                        "trigger.time.seconds": 5, "name":"ufoBonus"
+                    },
+                    {
+                        "position.x":100, "position.y":100,
+                        "velocity.x":1, "velocity.y":2,
+                        "trigger.time.seconds": 10, "name":"ufoBonus"
+                    }
+
+                ]
+            },
+            {
+                "asteroids" :
+                [
+                    {
+                        "position.x":100, "position.y":200, "velocity.x":-1, "velocity.y":-1,
+                        "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":450, "position.y":20,"velocity.x":1, "velocity.y":-1,
+                        "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":1280, "position.y":720, "velocity.x":-1, "velocity.y":-1,
+                        "name":"largeAsteroid"
+                    }
+                ]
+            },
+            {
+                "asteroids" :
+                [
+                    {
+                        "position.x":80, "position.y":80, "velocity.x":80, "velocity.y":80,
+                         "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":20, "position.y":30,"velocity.x":30, "velocity.y":50,
+                        "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":20, "position.y":30, "velocity.x":30, "velocity.y":50,
+                         "name":"largeAsteroid"
+                    },
+                    {
+                        "position.x":100, "position.y":720,"velocity.x":1, "velocity.y":-1,
+                        "name":"largeAsteroid"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
