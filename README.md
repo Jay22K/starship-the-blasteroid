@@ -21,23 +21,23 @@ Starship: The Blasteroid is an exciting game developed using Flutter. The game's
 
 ## Screenshots
 
-[<img src="screenshots/image-1.jpeg" alt="Screenshot 1" height="200px" width="300px">](screenshots/image-1.jpeg)
-*Caption for Screenshot 1*
+[<img src="screenshots/image-1.jpeg" alt="Screenshot 1" height="200px" width="400px">](screenshots/image-1.jpeg)
 
-[<img src="screenshots/image-2.jpeg" alt="Screenshot 2" height="200px" width="300px">](screenshots/image-2.jpeg)
-*Caption for Screenshot 2*
 
-[<img src="screenshots/image-3.jpeg" alt="Screenshot 3" height="200px" width="300px">](screenshots/image-3.jpeg)
-*Caption for Screenshot 3*
+[<img src="screenshots/image-2.jpeg" alt="Screenshot 2" height="200px" width="400px">](screenshots/image-2.jpeg)
 
-[<img src="screenshots/part-1.gif" alt="Screenshot 4" height="200px" width="300px">](screenshots/part-1.gif)
-*Caption for Screenshot 4*
 
-[<img src="screenshots/part-2.gif" alt="Screenshot 5" height="200px" width="300px">](screenshots/part-2.gif)
-*Caption for Screenshot 5*
+[<img src="screenshots/image-3.jpeg" alt="Screenshot 3" height="200px" width="400px">](screenshots/image-3.jpeg)
 
-[<img src="screenshots/part-3.gif" alt="Screenshot 6" height="200px" width="300px">](screenshots/part-3.gif)
-*Caption for Screenshot 6*
+
+[<img src="screenshots/part-1.gif" alt="Screenshot 4" height="200px" width="400px">](screenshots/part-1.gif)
+
+
+[<img src="screenshots/part-2.gif" alt="Screenshot 5" height="200px" width="400px">](screenshots/part-2.gif)
+
+
+[<img src="screenshots/part-3.gif" alt="Screenshot 6" height="200px" width="400px">](screenshots/part-3.gif)
+
 
 <video width="640" height="360" controls>
   <source src="screenshots/video.mp4" type="video/mp4">
