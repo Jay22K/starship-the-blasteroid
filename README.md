@@ -38,8 +38,7 @@ Starship: The Blasteroid is an exciting game developed using Flutter. The game's
 
 [<img src="screenshots/part-3.gif" alt="Screenshot 6" height="200px" width="450px">](screenshots/part-3.gif)
 
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>
 *Caption for the video*
 
 ## Getting Started
