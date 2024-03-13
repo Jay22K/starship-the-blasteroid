@@ -76,7 +76,7 @@ To run the game locally, follow these steps:
 ## Download APK
 
 Click the button below to download the latest APK:
-[Download APK](build/app/outputs/flutter-apk/starship-v1.2.apk)
+[Download APK](./starship-v1.2.apk)
 
 ## Contributing
 
